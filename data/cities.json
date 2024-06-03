@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Karpenisi",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2023-12-10T10:07:36.931Z",
+      "notes": "btf",
+      "position": {
+        "lat": "38.95229017424088",
+        "lng": "21.821400115336417"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Vranje",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2023-12-10T17:53:54.162Z",
+      "notes": "yyy",
+      "position": {
+        "lat": "42.55271189743297",
+        "lng": "21.898498535156254"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Hnidyn",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2023-11-28T18:39:41.000Z",
+      "notes": "Very nice!",
+      "position": {
+        "lat": "50.291507264407784",
+        "lng": "30.761718750000004"
+      },
+      "id": 98443203
+    }
+  ]
+}

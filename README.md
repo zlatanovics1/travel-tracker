@@ -20,7 +20,7 @@ Follow these steps to get the Travel Tracker App up and running on your local ma
    cd travel-tracker
    ```
 
-2. **Install the depedencies and run the app**
+2. **Install the dependencies and run the app**
    ```bash
       npm install
       npm run dev

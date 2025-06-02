@@ -9,6 +9,12 @@ Welcome to the Travel Tracker App! This application helps you keep a record of t
 - **Travel List:** View a list of all the places you have visited.
 - **Edit and Delete:** Update or remove locations from your travel list as needed.
 
+---
+
+<img width="1511" alt="image" src="https://github.com/user-attachments/assets/5ae63414-3e1d-4a72-9ca1-e5c51e32afb1" />
+
+---
+
 ## Installation
 
 Follow these steps to get the Travel Tracker App up and running on your local machine:
